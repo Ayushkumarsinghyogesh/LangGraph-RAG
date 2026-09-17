@@ -128,3 +128,5 @@ uv run python ingest.py
 | `faiss-cpu` | Local vector similarity search |
 | `streamlit` | Web UI |
 | `python-dotenv` | Environment variable loading |
+
+All the best !
